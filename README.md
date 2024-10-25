@@ -1,6 +1,6 @@
 # dotfiles
 
-This repo is not updated anymore, my [dotfiles](https://github.com/seanbreckenridge/dotfiles) repo works on MacOS/Linux. It checks the OS and installs packages properly; calls out to wrapper scripts to handle cross platform functionality.
+This repo is not updated anymore, my [dotfiles](https://github.com/purarue/dotfiles) repo works on MacOS/Linux. It checks the OS and installs packages properly; calls out to wrapper scripts to handle cross platform functionality.
 
 
 -- OLD README BELOW --
@@ -24,5 +24,5 @@ Notes:
     xcode-select --install
     # Install oh-my-zsh
     sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-    git clone https://github.com/seanbreckenridge/mac-dotfiles dotfiles
+    git clone https://github.com/purarue/mac-dotfiles dotfiles
     ./dotfiles/setup
